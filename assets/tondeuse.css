@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333;
+  background-image:url('bg.png');
+  background-repeat:repeat;
+}
+
+#cr-stage {
+  border: 0px solid black;
+  margin: 30px auto 0px auto;
+  color: white;
+}
+
+#sorry{
+  width: 980px;
+  height: 90px;
+  border: 0px solid black;
+  margin: 30px auto 0px auto;
+  color: white;
+  font-family: "Helvetica", serif;
+  font-size:42px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#while{
+  padding-top: 22px;
+  font-size:16px;
+}
+
+#lien{
+  padding-top: 12px;
+  font-size:13px;
+  color: #BBB;
+}
+
+/* smooth animations */
+a, a:visited {
+  -moz-transition: color .3s, background .3s, opacity .3s, border .3s;
+  -webkit-transition: color .3s, background .3s, opacity .3s, border .3s;
+  -o-transition: color .3s, background .3s, opacity .3s, border .3s;
+  transition: color .3s, background .3s, opacity .3s, border .3s;
+}
+
+a, a:visited {
+  color: #FF652E;
+  text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+  color: #FFEC39;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
