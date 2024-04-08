@@ -15,15 +15,9 @@ body {
 }
 
 #sorry{
-  width: 980px;
-  height: 90px;
-  border: 0px solid black;
   margin: 30px auto 0px auto;
-  color: white;
-  font-family: "Helvetica", serif;
   font-size:42px;
   text-align: center;
-  text-transform: uppercase;
 }
 
 #while{
@@ -46,7 +40,7 @@ a, a:visited {
 }
 
 a, a:visited {
-  color: #FF652E;
+  color: white;
   text-decoration: none;
 }
 

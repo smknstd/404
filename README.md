@@ -1,0 +1,1 @@
+This 404 page project was developed for the purpose of learning JavaScript in 2014. It is inspired by a homebrew game named ["lawn mower"](https://www.youtube.com/watch?v=LVw-TELhNvk) and released into the Public Domain in 2011 by [Shiru](http://shiru.untergrund.net/aboutme.shtml) from Russia for the NES gaming console.
